@@ -31,23 +31,28 @@ Here are some of the projects I've created on my journey to becoming a software 
 
 
 ## <a name="Education">Education</a>  
-### Makers Academy (January to April 2020)
+#### Makers Academy (January to April 2020)  
 16 weeks of intense software development, learning skills such as:
 - Object-oriented programming, test driven development, pair-programming, agile project management and many more.
 - Languages - Ruby, JavaScript, Python, SQL
 - Frameworks & Libraries - Rails, Sinatra, OpenCV, Caffe, Node.js, jQuery, React
 - Testing Frameworks - RSpec & Jasmine
 
+#### Other qualifications 
+- National Diploma in Business & Finance (Distinction grade)
+- 10 GCSE's(Including A*'s in Mathematics and French)
+
 ## <a name="Experience">Experience</a>  
+#### Aviva (November 2015 to December 2019)  
 
 
 
 ## <a name="Interests">Interests</a>  
-### Cooking 
+#### Cooking 
 Recreating meals that I've had at restaurants is a huge hobby of mine. From making the Wagamama Katsu Curry, to replicating the irreplaceable Big Mac.  
 The possibilities are endless!
 
-### Piano
+#### Piano
 So I was playing a wonderful game called Final Fantasy X, and on comes a nice tune called 'To Zanarkand' played on the piano. Inspired by it, I went and bought myself a piano with the sole purpose of playing that song.  
 With sheer determintation, and a significant amount of YouTube videos, I was able to do it!  
 Next on the list to learn: Nuvole Bianche, by Ludovico Einaudi.
