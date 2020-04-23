@@ -43,14 +43,14 @@ Here are some of the projects I've created on my journey to becoming a software 
 - 10 GCSE's(Including A*'s in Mathematics and French)
 
 ## <a name="Experience">Experience</a>  
-#### Aviva (November 2015 to December 2019)
+#### Aviva (November 2013 to December 2019)
 *Client Servicing Consultant*
 - Organising and leading high profile client visits with the aim of improving service levels and improve client relationship
 - Liaising with developers to incorporate improvements and innovations into our platform
 - Creating processes and tools to increase automation and reduce manual intervention, in order to increase accuracy and efficiency
 - Training staff on various aspects of their roles and remaining a point of contact on projects I had prior involvement with
 
-#### AXA Insurance (November 2013 to May 2015)
+#### AXA Insurance (November 2010 to May 2013)  
 *Claims Handler*
 - Analysing and investigating insurance claims to provide a fair outcome for customers
 - Working with audit teams to maintain high levels of service and provide innovative ideas to improve efficiency and audit scores
