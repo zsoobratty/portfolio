@@ -27,7 +27,6 @@ Here are some of the projects I've created on my journey to becoming a software 
 |[Thermostat](https://github.com/zsoobratty/thermostat-JS)| A single page web app of a thermostat | JavaScript, Jasmine, jQuery, OpenWeather API
 
 ## <a name="Skills">Skills</a>  
-#### Leading - 
 
 
 
@@ -51,7 +50,8 @@ Here are some of the projects I've created on my journey to becoming a software 
 - Creating processes and tools to increase automation and reduce manual intervention, in order to increase accuracy and efficiency
 - Training staff on various aspects of their roles and remaining a point of contact on projects I had prior involvement with
 
-#### AXA Insurance (November 2013 to May 2015) - Claims Handler
+#### AXA Insurance (November 2013 to May 2015)
+*Claims Handler*
 - Analysing and investigating insurance claims to provide a fair outcome for customers
 - Working with audit teams to maintain high levels of service and provide innovative ideas to improve efficiency and audit scores
 - Training staff to progress onto a claim handling role
