@@ -24,7 +24,7 @@ Here are some of the projects I've created on my journey to becoming a software 
 |-------------- |--------------------------- |-----------   |
 |[PongNotPong](https://github.com/Peter2-71828/PongNotPong)| Final project - A machine learning computer vision pong game controlled by the position of your head | Python, OpenCV, Caffe, Pygame |
 |[Chitter](https://github.com/zsoobratty/chitter-challenge)| A clone of the social media app - Twitter | Ruby, Sinatra, RSpec, ActiveRecord, SQL, Capybara|
-|[MakersBnB](https://github.com/jasylwong/MakersBnB)| A clone of popular accomodation booking site - AirBnB | JavaScript, Ruby, Jasmine, Rspec, Capybara, Sinatra, ActiveRecord, SQL |
+|[MakersBnB](https://github.com/jasylwong/MakersBnB)| A clone of popular accommodation booking site - AirBnB | JavaScript, Ruby, Jasmine, RSpec, Capybara, Sinatra, ActiveRecord, SQL |
 |[Rock Paper Scissors](https://github.com/zsoobratty/rps-JS)|A rock paper scissors game in pure JavaScript | JavaScript, HTML, CSS |
 |[Thermostat](https://github.com/zsoobratty/thermostat-JS)| A single page web app of a thermostat | JavaScript, Jasmine, jQuery, OpenWeather API
 
