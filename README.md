@@ -13,7 +13,7 @@
 
 I am a full stack developer looking for a full time role in the industry.
 
-Having recently graduated from Makers Academy, a 16 week full-time software development bootcamp, I am now looking to show the skills I have developed before and during the course.
+Having recently graduated from Makers Academy, a 16 week full-time software development boot camp, I am now looking to show the skills I have developed before and during the course.
 
 Prior to Makers, I was a client servicing consultant at Aviva. Having spent a lot of my role liaising and assisting developers, I thought to myself - hey, why not learn the skills to become one?
 
@@ -22,7 +22,7 @@ Prior to Makers, I was a client servicing consultant at Aviva. Having spent a lo
 Here are some of the projects I've created on my journey to becoming a software developer:
 | Project       | Description                | Technologies |  
 |-------------- |--------------------------- |-----------   |
-|[PongNotPong](https://github.com/Peter2-71828/PongNotPong)| Final project - A machine learning computer vision pong game controlled by the position of your head | Python, OpenCV, Caffe, Pygame |
+|[PongNotPong](https://github.com/Peter2-71828/PongNotPong)| Final project - A machine learning computer vision pong game controlled by the position of your head | Python, OpenCV, Caffe, PyGame |
 |[Chitter](https://github.com/zsoobratty/chitter-challenge)| A clone of the social media app - Twitter | Ruby, Sinatra, RSpec, ActiveRecord, SQL, Capybara|
 |[MakersBnB](https://github.com/jasylwong/MakersBnB)| A clone of popular accommodation booking site - AirBnB | JavaScript, Ruby, Jasmine, RSpec, Capybara, Sinatra, ActiveRecord, SQL |
 |[Rock Paper Scissors](https://github.com/zsoobratty/rps-JS)|A rock paper scissors game in pure JavaScript | JavaScript, HTML, CSS |
@@ -33,10 +33,6 @@ Here are some of the projects I've created on my journey to becoming a software 
 #### Leading
 
 As a client servicing consultant at Aviva, I was regularly entrusted to organise and lead meetings with the most lucrative clients we had, in order rekindle the relationship with the client, and work with them to improve service levels. Due to this, we were able to maintain a solid relationship with them, and ensure that our reputation as an insurer remained at the highest level. These contributed to obtaining a further investment of £600m from the client.
-
-#### Fast learner
-
-We 
 
 ## <a name="Education">Education</a>  
 
