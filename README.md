@@ -34,6 +34,10 @@ Here are some of the projects I've created on my journey to becoming a software 
 
 As a client servicing consultant at Aviva, I was regularly entrusted to organise and lead meetings with the most lucrative clients we had, in order rekindle the relationship with the client, and work with them to improve service levels. Due to this, we were able to maintain a solid relationship with them, and ensure that our reputation as an insurer remained at the highest level. These contributed to obtaining a further investment of £600m from the client.
 
+#### Fast learner
+
+We 
+
 ## <a name="Education">Education</a>  
 
 #### Makers Academy (January to April 2020)  
@@ -47,7 +51,7 @@ As a client servicing consultant at Aviva, I was regularly entrusted to organise
 
 #### Other qualifications 
 - National Diploma in Business & Finance (Distinction grade)
-- 10 GCSE's(Including A*'s in Mathematics and French)
+- 10 GCSE's (Including A*'s in Mathematics and French)
 
 ## <a name="Experience">Experience</a>  
 
@@ -55,7 +59,7 @@ As a client servicing consultant at Aviva, I was regularly entrusted to organise
 
 *Client Servicing Consultant*
 
-- Organising and leading high profile client visits with the aim of improving service levels and improve client relationship
+- Organising and leading high profile client visits with the aim of improving service levels and client relationship
 - Liaising with developers to incorporate improvements and innovations into our platform
 - Creating processes and tools to increase automation and reduce manual intervention, in order to increase accuracy and efficiency
 - Training staff on various aspects of their roles and remaining a point of contact on projects I had prior involvement with
