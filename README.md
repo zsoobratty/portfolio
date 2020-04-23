@@ -15,7 +15,7 @@ I am a full stack developer looking for a full time role in the industry.
 
 Having recently graduated from Makers Academy, a 16 week full-time software development boot camp, I am now looking to show the skills I have developed before and during the course.
 
-Prior to Makers, I was a client servicing consultant at Aviva. Having spent a lot of my role liaising and assisting developers, I thought to myself - hey, why not learn the skills to become one?
+Prior to Makers, I was a client servicing consultant at Aviva. Having spent a lot of my role liaising with, and assisting developers, I thought to myself - hey, why not learn the skills to become one?
 
 ## <a name="Projects">Projects</a>
 
