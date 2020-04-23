@@ -17,7 +17,7 @@ Having recently graduated from Makers Academy, a 16 week full-time software deve
 
 Prior to Makers, I was a client servicing consultant at Aviva. Having spent a lot of my role liaising and assisting developers, I thought to myself - hey, why not learn the skills to become one?
 
-## <a name="Projects">Projects</a>  
+## <a name="Projects">Projects</a>
 
 Here are some of the projects I've created on my journey to becoming a software developer:
 | Project       | Description                | Technologies |  
@@ -58,7 +58,7 @@ As a client servicing consultant at Aviva, I was regularly entrusted to organise
 - Organising and leading high profile client visits with the aim of improving service levels and client relationship
 - Liaising with developers to incorporate improvements and innovations into our platform
 - Creating processes and tools to increase automation and reduce manual intervention, in order to increase accuracy and efficiency
-- Training staff on various aspects of their roles and remaining a point of contact on projects I had prior involvement with
+- Training staff on various aspects of their roles and remaining a point of contact on projects I had prior involvement in
 
 #### AXA Insurance (November 2010 to May 2013)
 
