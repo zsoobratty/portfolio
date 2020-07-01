@@ -1,0 +1,31 @@
+- name: PongNotPong
+  url: https://github.com/Peter2-71828/PongNotPong
+  description: Our final project in the Makers Bootcamp. Using machine learning and computer vision to create a game of pong that is controlled via head movements.
+  status: live
+  tags:
+    - Python
+    - OpenCV
+  icon: github
+  image: images/PongNotPong.jpg
+
+- name: MakersBnB
+  url: https://github.com/jasylwong/MakersBnB
+  description: Group project building a clone of the popular booking website - AirBNB
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/airbnb.jpg
+
+- name: InstaClone
+  url: https://github.com/zsoobratty/instaclone-client
+  description: Instagram Clone built while learning the MERN stack. Allows users to sign up, make, like, comment on and follow posts. Hosted at https://instaclone91.herokuapp.com/
+  status: live
+  tags:
+    - MongoDB
+    - Express
+    - React
+    - Node.js
+  icon: website
+  image: images/InstaClone.jpg

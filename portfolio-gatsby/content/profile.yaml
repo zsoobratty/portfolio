@@ -1,0 +1,29 @@
+- profile: 
+  initials: ZS
+  name: Ziad Soobratty
+  email: ziad1991@hotmail.co.uk
+  profession: Software Developer
+  image: images/profile.jpg
+  location: London, UK
+  relocation: false
+  company: Makers Tech
+  for_hire: true
+  focus: Learning
+  focus_url: https://github.com/zsoobratty
+  about: |
+    A software developer, graduated from Makers software development bootcamp. Career changed from a Client Servicing Consultant in the pension industry where the focus was on solving real customer problems, improving client relationship, and providing (and continuously improving) excellent service to our clients.
+
+    Looking for roles where I can continue to learn from other developers, as well as working on projects that make a difference to people's lives.
+  skills:
+    - JavaScript
+    - React
+    - Node.JS
+  tools:
+    - JavaScript
+    - Ruby
+    - React
+  budget:
+    currency: £
+    min: 5
+    max: 30
+    default: 10
