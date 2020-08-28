@@ -1,6 +1,9 @@
-import React from 'react'
+import React, {useContext} from 'react'
+import {TodoListContext} from '../context/TodoListContext'
 
 const Todo = ({ todo }) => {
+    const {removeTodo} = useContext(TodoListContext)
+
     return (
         <div>
             <li className="list-item">
@@ -8,7 +11,7 @@ const Todo = ({ todo }) => {
                     {todo.title}
                 </span>
                 <div>
-                    <button className="btn-delete task-btn">
+                    <button onClick={() => removeTodo(todo.id)} className="btn-delete task-btn">
                        <i className="fas fa-trash-alt"></i>
                     </button>
                     <button className="btn-edit task-btn">
