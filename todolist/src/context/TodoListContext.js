@@ -12,12 +12,12 @@ const TodoListContextProvider = (props) => {
         {title: 'Write some code', id: 3}
     ]);
 
-    const addTask = (title) => {
-        setTodos([...todos, [{title, id: uuidv4() }]])
+    const addTodo = (title) => {
+        setTodos([...todos, {title: title, id: uuidv4() }])
     }
 
     return(
-        <TodoListContext.Provider value={{todos}}>
+        <TodoListContext.Provider value={{todos, addTodo}}>
             {props.children}
         </TodoListContext.Provider>
     )
