@@ -1,10 +1,14 @@
 import React from 'react'
+import TodoList from './components/TodoList'
+import TodoListContextProvider from './context/TodoListContext'
 
 const App = () => {
     return (
-        <div>
-            Hello App
-        </div>
+        <TodoListContextProvider>
+            <div>
+                <TodoList />
+            </div>
+        </TodoListContextProvider>
     )
 }
 

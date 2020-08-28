@@ -1,13 +1,14 @@
 import React, {useContext} from 'react'
 import {TodoListContext} from '../context/TodoListContext'
+import Todo from './Todo'
 
 const TodoList = () => {
-    const {tasks} = useContext(TodoListContext)
+    const { todos } = useContext(TodoListContext)
     return (
         <div>
             <ul className="list">
-                {tasks.map((task) => {
-                     
+                {todos.map(todo => {
+                     return <Todo />
                 })}
             </ul>
         </div>
