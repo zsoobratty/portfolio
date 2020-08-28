@@ -1,8 +1,8 @@
-import React, {useContext, useState} from 'react'
+import React, {useContext, useState, useEffect} from 'react'
 import {TodoListContext} from '../context/TodoListContext'
 
 const TodoForm = () => {
-    const { addTodo, clearTodos } = useContext(TodoListContext)
+    const { addTodo, clearTodos, editItem, editTodo } = useContext(TodoListContext)
 
     const [title, setTitle] = useState('')
 
@@ -11,10 +11,22 @@ const TodoForm = () => {
     }
 
     const handleSubmit = e => {
-        e.preventDefault()   
-        addTodo(title)
-        setTitle('')
+        e.preventDefault()
+        if(editItem === null) {      
+            addTodo(title)
+            setTitle('')
+        } else {
+            editTodo(title, editItem.id)
+        }
     }
+    
+    useEffect(() => {
+        if(editItem !== null) {
+            setTitle(editItem.title)
+        } else {
+            setTitle('')
+        }
+    },[editItem])
 
     return (
             <form onSubmit={handleSubmit} className="form">
