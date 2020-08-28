@@ -1,4 +1,6 @@
 import React, {createContext, useState} from 'react'
+import { v4 as uuidv4 } from 'uuid';
+
 
 
 export const TodoListContext = createContext();
@@ -9,6 +11,10 @@ const TodoListContextProvider = (props) => {
         {title: 'Wash the car', id: 2},
         {title: 'Write some code', id: 3}
     ]);
+
+    const addTask = (title) => {
+        setTodos([...todos, [{title, id: uuidv4() }]])
+    }
 
     return(
         <TodoListContext.Provider value={{todos}}>
