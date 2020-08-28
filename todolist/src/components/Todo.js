@@ -1,17 +1,17 @@
 import React from 'react'
 
-const Todo = () => {
+const Todo = ({ todo }) => {
     return (
         <div>
-            <li className="listitem">
+            <li className="list-item">
                 <span>
-                    Todo
+                    {todo.title}
                 </span>
                 <div>
-                    <button className="delete-btn">
+                    <button className="btn-delete task-btn">
                        <i className="fas fa-trash-alt"></i>
                     </button>
-                    <button className="added-btn">
+                    <button className="btn-edit task-btn">
                        <i className="fas fa-pen"></i>
                     </button>
                 </div>
