@@ -16,12 +16,16 @@ const TodoListContextProvider = (props) => {
         setTodos([...todos, {title: title, id: uuidv4() }])
     }
 
+    const clearTodos = () => {
+        setTodos([])
+    }
+
     const removeTodo = (id) => {
         setTodos(todos.filter(task => task.id !== id))
     }
 
     return(
-        <TodoListContext.Provider value={{todos, addTodo, removeTodo}}>
+        <TodoListContext.Provider value={{todos, addTodo, removeTodo, clearTodos}}>
             {props.children}
         </TodoListContext.Provider>
     )

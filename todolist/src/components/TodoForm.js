@@ -2,7 +2,7 @@ import React, {useContext, useState} from 'react'
 import {TodoListContext} from '../context/TodoListContext'
 
 const TodoForm = () => {
-    const { addTodo } = useContext(TodoListContext)
+    const { addTodo, clearTodos } = useContext(TodoListContext)
 
     const [title, setTitle] = useState('')
 
@@ -11,13 +11,12 @@ const TodoForm = () => {
     }
 
     const handleSubmit = e => {
-        e.preventDefault()
+        e.preventDefault()   
         addTodo(title)
         setTitle('')
     }
 
     return (
-        <div>
             <form onSubmit={handleSubmit} className="form">
                 <input
                     onChange={handleChange}
@@ -28,15 +27,17 @@ const TodoForm = () => {
                     required
                 />
                 <div className="buttons">
-                    <button type="submit" className="btn add-task-btn">
+                    <button 
+                        type="submit" 
+                        className="btn add-task-btn"                        
+                    >
                         Add
                     </button>
-                    <button type="submit" className="btn clear-btn">
+                    <button type='button' onClick={() => clearTodos()} className="btn clear-btn">
                         Clear
                     </button>
                 </div>
             </form>
-        </div>
     )
 }
 

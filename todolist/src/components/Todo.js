@@ -2,7 +2,7 @@ import React, {useContext} from 'react'
 import {TodoListContext} from '../context/TodoListContext'
 
 const Todo = ({ todo }) => {
-    const {removeTodo} = useContext(TodoListContext)
+    const { removeTodo } = useContext(TodoListContext)
 
     return (
         <div>
