@@ -37,6 +37,7 @@ export const TodoListContext = createContext();
     const editTodo = (title, id) => {
         const newTodo = todos.map(todo => (todo.id === id ? {title, id} : todo))
         setTodos(newTodo)
+        setEditItem(null)
     }
 
     return(
