@@ -12,7 +12,7 @@ const TodoForm = () => {
 
     const handleSubmit = e => {
         e.preventDefault()
-        if(editItem === null) {      
+        if(!editItem) {      
             addTodo(title)
             setTitle('')
         } else {
@@ -21,7 +21,7 @@ const TodoForm = () => {
     }
     
     useEffect(() => {
-        if(editItem !== null) {
+        if(editItem) {
             setTitle(editItem.title)
         } else {
             setTitle('')
@@ -43,7 +43,7 @@ const TodoForm = () => {
                         type="submit" 
                         className="btn add-task-btn"                        
                     >
-                        Add
+                    {editItem ? 'Edit' : 'Add'}
                     </button>
                     <button type='button' onClick={() => clearTodos()} className="btn clear-btn">
                         Clear
