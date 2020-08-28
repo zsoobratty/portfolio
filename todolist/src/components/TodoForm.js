@@ -13,6 +13,7 @@ const TodoForm = () => {
     const handleSubmit = e => {
         e.preventDefault()
         addTodo(title)
+        setTitle('')
     }
 
     return (
