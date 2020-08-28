@@ -1,6 +1,7 @@
 import React from 'react'
 import './App.css'
 import TodoList from './components/TodoList'
+import TodoForm from './components/TodoForm'
 import TodoListContextProvider from './context/TodoListContext'
 
 const App = () => {
@@ -9,6 +10,7 @@ const App = () => {
             <div className='container'>
                 <div className="app-wrapper">
                     <div className="main">
+                        <TodoForm />
                         <TodoList />
                     </div>
                 </div>
