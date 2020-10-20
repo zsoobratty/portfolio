@@ -1,3 +1,15 @@
+- name: CryptoTracking
+  url: https://github.com/zsoobratty/cryptotracking
+  description: A cryptocurrency tracking app where you can create your own portfolio and look up information on various coins. More features to be added along the way.
+  status: in progress
+  tags:
+    - Node
+    - Express
+    - MongoDB
+    - React
+  icon: github
+  image: images/crypto.jpg
+
 - name: PongNotPong
   url: https://github.com/Peter2-71828/PongNotPong
   description: Our final project in the Makers Bootcamp. Using machine learning and computer vision to create a game of pong that is controlled via head movements.
